@@ -1,0 +1,21 @@
+{
+  "name": "Neelam & Parth Wedding Celebration",
+  "short_name": "N&P Wedding",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5e9d7",
+  "theme_color": "#d4a574",
+  "description": "Join us in Palampur for a beautiful mountain wedding! RSVP, see the gallery, and connect with our WhatsApp community.",
+  "icons": [
+    {
+      "src": "images/WA Profile Pic.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/WA Profile Pic.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
