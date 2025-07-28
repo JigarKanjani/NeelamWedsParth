@@ -1079,9 +1079,6 @@
             </div>
         </div>
     </div>
-    
-    <!-- Centered floating countdown title for animation -->
-    <div class="countdown-float" id="countdown-float">🎉 Wedding Celebration Begins In 🎉</div>
 
     <!-- Confetti Container -->
     <div class="confetti" id="confetti"></div>
@@ -1651,7 +1648,7 @@
                 if (formspreeResponse.ok) {
                     // Send SMS via your Vercel backend
                     try {
-                        await fetch('https://wedding-sms-api.vercel.app/api/send-sms', {
+                        await fetch('https://nextjs-boilerplate-git-main-jigarkanjanis-projects.vercel.app', {
                             method: 'POST',
                             headers: {
                                 'Content-Type': 'application/json',
